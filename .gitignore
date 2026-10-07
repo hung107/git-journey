@@ -1,0 +1,8 @@
+# Ignore local OS, editor, log, dependency, and environment files.
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.log
+node_modules/
+.env
