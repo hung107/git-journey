@@ -13,3 +13,7 @@ Các lệnh cơ bản, mỗi lệnh một dòng giải thích ngắn.
 - `git push` — Đưa commit trên máy bạn lên kho từ xa.
 - `git merge <nhánh>` — Gộp lịch sử của một nhánh vào nhánh hiện tại.
 - `git log` — Xem danh sách các commit theo thứ tự thời gian.
+
+## Pull request
+
+Pull request (PR) giống một lá đơn xin để gộp một nhánh vào `main`. Chỉ người có quyền Write trên kho mới gộp được.
