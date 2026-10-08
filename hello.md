@@ -1,2 +1,1 @@
-Hello from Grok Bot.
-Đây là PR thứ tư để tập Git.
+Xin chào từ nhánh A
